@@ -21,6 +21,7 @@
  * N         : Number of samples
  * STEP_SIZE : Leapfrog step-size
  * N_STEPS   : Number of leapfrog steps
+ * DIMENSION : Dimension of the Gaussian distribution.
  */
 
 #include <stdio.h>
